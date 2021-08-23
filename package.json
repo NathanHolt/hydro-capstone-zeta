@@ -1,0 +1,8 @@
+{
+  "name": "hydro-capstone-zeta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:NathanHolt/hydro-capstone-zeta.git",
+  "author": "Nathan Holt <nateofakin@gmail.com>",
+  "license": "MIT"
+}
